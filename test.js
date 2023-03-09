@@ -55,7 +55,7 @@ const tableau = [
     "Supports": "",
     "Date de création": "9 mars 2023 08:20"
   }
-]; // remplacez 'null' par les données du JSON
+]; 
 
 tableau.forEach((elm) => {
   console.log(elm);
